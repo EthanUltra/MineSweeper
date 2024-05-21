@@ -138,6 +138,5 @@ document.addEventListener("DOMContentLoaded", () => {
             }
         });
     }
-
     createBoard();
 });

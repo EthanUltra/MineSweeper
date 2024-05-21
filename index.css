@@ -47,3 +47,17 @@ h1 {
 .cell.hidden-mine {
     background-color: #ddd; /* Same as the initial cell color */
 }
+
+        /* Optional CSS for styling the button */
+        .restart-button {
+            padding: 10px 20px;
+            font-size: 16px;
+            color: white;
+            background-color: #007BFF;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        .restart-button:hover {
+            background-color: #0056b3;
+        }
